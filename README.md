@@ -124,3 +124,9 @@ For any questions, please contact me at the following links:
 * [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://raquel-t.github.io/Professional-Portfolio-2nd-assignment/)
 
 ## Resources
+* [PWA on MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+* [Web app manifests](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+* [REACT RESOURCES/ Progressive Web Applications](https://reactresources.com/topics/progressive-web-applications)
+
+## Credits
+* [stellalph/ 19-PWA-Text-Editor](https://github.com/stellalph/19-PWA-Text-Editor)
