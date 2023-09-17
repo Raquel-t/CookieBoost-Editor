@@ -62,6 +62,10 @@ https://cookieboost-editor-a0a32e7dc73d.herokuapp.com/
 
 Demo:
 
+https://github.com/Raquel-t/CookieBoost-Editor/assets/130006996/452b5c5c-4df4-4632-bf44-6c6fcf8343f4
+
+
+
 The following image shows the npm run start on terminal:
 
 
