@@ -73,9 +73,15 @@ The following image shows the npm run start on terminal:
 
 The following image shows the application's manifest.json file:
 
+![manifest.json image](image-1.png)
+
 The following image shows the application's registered service worker:
 
+![service worker image](image-2.png)
+
 The following image shows the application's IndexedDB storage:
+
+![IndexedDB image](image-3.png)
 
 ## Installation
 
